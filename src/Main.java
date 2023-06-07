@@ -1,13 +1,16 @@
-import Leetcode75.LetterCombinationsOfAPhoneNumber;
-import Leetcode75.RemoveDuplicatesFromSortedArrayII;
-import Leetcode75.SmallestRangeCoveringElementsFromKLists;
+import Leetcode75.GenerateParentheses;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
-    public static void main(String[] args) {
 
+    public static void main(String[] args) {
+        GenerateParentheses generateParentheses = new GenerateParentheses();
+        List<String> l = generateParentheses.generateParenthesis(8);
+        for (String l1 : l) {
+            System.out.println(l1);
+        }
     }
+
 
 }
