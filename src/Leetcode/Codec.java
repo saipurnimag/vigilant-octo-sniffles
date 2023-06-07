@@ -1,3 +1,5 @@
+package Leetcode;
+
 import java.util.HashMap;
 
 public class Codec {
@@ -21,6 +23,6 @@ public class Codec {
     }
 }
 
-// Your Codec object will be instantiated and called as such:
-// Codec codec = new Codec();
+// Your Leetcode.Codec object will be instantiated and called as such:
+// Leetcode.Codec codec = new Leetcode.Codec();
 // codec.decode(codec.encode(url));

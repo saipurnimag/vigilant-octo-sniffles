@@ -1,3 +1,5 @@
+package Leetcode;
+
 public class ZigzagConversion {
     // https://github.com/saipurnimag/vigilant-octo-sniffle.git
     public String convert(String s, int numRows) {

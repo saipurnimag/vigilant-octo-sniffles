@@ -1,4 +1,4 @@
-import Leetcode75.GenerateParentheses;
+import Leetcode.GenerateParentheses;
 
 import java.util.List;
 

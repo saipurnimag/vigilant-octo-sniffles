@@ -1,4 +1,4 @@
-package Leetcode75;
+package Leetcode;
 
 public class ProductOfArrayExceptSelf {
 

@@ -1,4 +1,4 @@
-package Leetcode75;
+package Leetcode;
 
 /**
  * https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&id=leetcode-75

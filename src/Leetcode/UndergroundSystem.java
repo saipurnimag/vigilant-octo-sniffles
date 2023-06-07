@@ -1,4 +1,4 @@
-package Leetcode75;
+package Leetcode;
 
 /**
  * 1396. Design Underground System
@@ -7,7 +7,6 @@ package Leetcode75;
  */
 
 import java.util.HashMap;
-import java.util.HashSet;
 
 class TrainEntry {
     String location;

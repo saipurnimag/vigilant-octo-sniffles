@@ -1,4 +1,4 @@
-package Leetcode75;
+package Leetcode;
 /**
  * https://leetcode.com/problems/greatest-common-divisor-of-strings/?envType=study-plan-v2&id=leetcode-75
  */
